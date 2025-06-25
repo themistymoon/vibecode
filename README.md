@@ -1,6 +1,9 @@
-# vibecode
-My Vibecoding projects
+# Vibecode
 
+My Vibecoding Projects
 
-For Kingdom of Fate Use https://moonlit-reindeer-460.convex.app/
-For Website Use https://combative-dragon-844.convex.app/
+- **Kingdom of Fate:**  
+  https://moonlit-reindeer-460.convex.app/
+
+- **Website:**  
+  https://combative-dragon-844.convex.app/
